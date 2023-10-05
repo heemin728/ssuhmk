@@ -1,3 +1,3 @@
 # ssuhmk
 
-컴퓨터학부20203083강희민
+Machine Learning
